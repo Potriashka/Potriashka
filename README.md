@@ -4,3 +4,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Potriashka&layout=compact&show_icons=true&theme=nightowl&border_radius=10)](https://github.com/Potriashka/Peter)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Potriashka&repo=firemess&theme=nightowl&border_radius=10)](https://github.com/Potriashka/firemess)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Potriashka&repo=tdgeGU&theme=nightowl&border_radius=10)](https://github.com/Potriashka/tdgeGU)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Potriashka&repo=App-catalog&theme=nightowl&border_radius=10)](https://github.com/Potriashka/App-catalog)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Potriashka&repo=VisualAI&theme=nightowl&border_radius=10)](https://github.com/Potriashka/VisualAI)
