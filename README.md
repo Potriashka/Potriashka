@@ -7,4 +7,4 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Potriashka&repo=firemess&theme=nightowl&border_radius=10)](https://github.com/Potriashka/firemess)  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Potriashka&repo=AppCatalog&theme=nightowl&border_radius=10)](https://github.com/Potriashka/AppCatalog)
 <br>
-<img src="https://komarev.com/ghpvc/?username=Potriashka&color=green">
+<img src="https://komarev.com/ghpvc/?username=Potriashka&color=blue">
